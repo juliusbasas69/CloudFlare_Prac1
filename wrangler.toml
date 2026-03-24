@@ -1,0 +1,4 @@
+name = "my-worker"                # Your project name
+main = "index.js"                 # The main worker script
+compatibility_date = "2026-03-24" # Today's date, required by Cloudflare
+type = "javascript"               # Type of worker project
